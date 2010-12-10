@@ -1,4 +1,5 @@
 package no.ntnu;
+
 public class Multiplication {
 	public static int multiply(int number1, int number2) {
 		int result = 0;
