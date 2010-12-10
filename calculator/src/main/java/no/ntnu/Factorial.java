@@ -1,4 +1,5 @@
 package no.ntnu;
+
 public class Factorial {
 	public static int factorial(int value) {
 		int result = 1;
