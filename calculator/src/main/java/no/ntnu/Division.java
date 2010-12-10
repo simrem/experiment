@@ -1,5 +1,4 @@
 package no.ntnu;
-
 public class Division {
 	public static int divide(int numberA, int numberB) {
 		int counter = 0;
