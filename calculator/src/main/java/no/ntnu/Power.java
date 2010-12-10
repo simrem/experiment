@@ -1,4 +1,5 @@
 package no.ntnu;
+
 public class Power {
 	public static int power(int base, int power){
 		int result = base;
